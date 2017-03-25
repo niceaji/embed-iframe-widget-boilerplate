@@ -1,0 +1,6 @@
+.example-widget {
+    border: 3px solid #eee;
+}
+.example-widget iframe {
+    max-width: 300px;
+}
