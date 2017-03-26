@@ -1,7 +1,7 @@
 {
   "name": "embed-iframe-widget-boilerplate",
-  "version": "1.0.0",
-  "description": "",
+  "version": "1.0.1",
+  "description": "A template for js widget",
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server --devtool cheap-module-eval-source-map",
@@ -23,5 +23,13 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "dependencies": {}
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/niceaji/embed-iframe-widget-boilerplate.git"
+  },
+  "bugs": {
+    "url": "https://github.com/niceaji/embed-iframe-widget-boilerplate/issues"
+  },
+  "homepage": "https://github.com/niceaji/embed-iframe-widget-boilerplate#readme"
 }

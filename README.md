@@ -1,5 +1,7 @@
 # embed-iframe-widget-boilerplate
 
+> A template for js widget
+
 ```
 $ git clone git@github.com:niceaji/embed-iframe-widget-boilerplate.git
 $ npm install
